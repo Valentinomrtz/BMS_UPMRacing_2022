@@ -8,7 +8,7 @@
 #include "dev/control.h"
 #include <stdlib.h>
 #include <stdio.h>
-
+/*PRUEBA QUE SI FUNCIONA ME PONE HORNy*/
 /* Check the main control inputs*/
 void check_inputs(bms* bms){
     check_shutdown(bms);
